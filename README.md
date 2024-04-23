@@ -17,7 +17,7 @@ This is a simple ToDo List application built with Python and Django. It allows u
 
 # Getting Started
 To run the application locally, follow these steps:
-1. Clone the repository: git clone
+1. Clone the repository: git clone https://github.com/Prasad-Bojja/TODO-List
 2. Navigate to the project directory: cd todo_list
 3. Install dependencies: pip install -r requirements.txt
 4. Run the application: python manage.py runserver
